@@ -64,9 +64,9 @@ A group of condition affecting the heart and blood vessels that known as Cardiov
 
 - When devloping the machine learning model it is generally reccomended that track multiple metrics because each one is highlights the distict aspects.So,we are focusing on Recall and F1 score.
 
--our highest F1 score is 0.914% came from XGBoost algorithm.
+- our highest F1 score is 0.914% came from XGBoost algorithm.
 
--Random forest classifier and KNN also provided the F1 score of 0.898 and 0.890 repectively.
+- Random forest classifier and KNN also provided the F1 score of 0.898 and 0.890 repectively.
 
 
 
