@@ -1,4 +1,6 @@
-# Cardiovascular_Risk_Prediction
+# Cardiovascular Risk Prediction : Machine Learning
+![coronary](https://github.com/user-attachments/assets/042ea305-215b-458b-8fd6-67868f9fd1a7)
+
 # Problem Statement:-
 A group of condition affecting the heart and blood vessels that known as Cardiovascular disease.They consists of heart disease which affects the blood vessels that supply the heart muscle.The issues of coronary heart disease is significant public health concern and early prediction of CHD risk is crucial fro everyone.We have to build the classification model to predict the 10 years risk of CHD for patients.
 # Variables Description:-
